@@ -1,0 +1,23 @@
+{
+  "name": "influx-accounting-helper",
+  "version": "0.0.1",
+  "description": "Helper functions to extract billing and accounting information from an influxdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/the78mole/influx-accounting-helper.git"
+  },
+  "keywords": [
+    "influx",
+    "influxdb"
+  ],
+  "author": "the78mole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the78mole/influx-accounting-helper/issues"
+  },
+  "homepage": "https://github.com/the78mole/influx-accounting-helper#readme"
+}
